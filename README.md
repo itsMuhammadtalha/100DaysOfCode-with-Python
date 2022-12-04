@@ -14,7 +14,7 @@
 - Files
 - Custom classes
 
-##Operators
+## Operators
 
 Python has a variety of operators that are used to perform operations on values and variables. The most common operators are the arithmetic operators, which are used to perform basic mathematical operations on numbers. Other operators include comparison operators, logical operators, bitwise operators, assignment operators, and membership operators.
 
