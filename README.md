@@ -22,5 +22,5 @@ Arithmetic Operators:
 
 Arithmetic operators are used to perform mathematical operations on numbers. These include addition (+), subtraction (-), multiplication (*), division (/), floor division (//), modulus (%) and exponent (**). These operators can be used on both integers and floating point numbers.
 
-to be continued....
+to be continued.....
 
