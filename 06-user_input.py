@@ -1,6 +1,6 @@
-a = input("Enter your name: ")
+name = input("What is your name? ")
 
-print("my name is : ", a)
+print("Hello, " + name)
 
 x = input("Enter first number: ")
 y = input("Enter second number: ")
